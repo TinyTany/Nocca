@@ -1,7 +1,8 @@
 #include "Nocca.hpp"
 
-Nocca::Nocca(/* args */)
+Nocca::Nocca()
 {
+    
 }
 
 Nocca::~Nocca()
